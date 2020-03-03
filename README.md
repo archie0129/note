@@ -1,4 +1,4 @@
-# note
+# Note
 
 ## L1
 - pwd : 觀察途徑
