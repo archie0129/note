@@ -9,3 +9,9 @@
 - git status : 看詳細內容
 - git commit -am "xxx" ： 透過注解，更新內容
 - git push ： 丟到網上
+
+## L2 
+- index.html : 塞入網址
+- .nojekyll : 空的資料夾
+- ls -a : 顯示隱藏檔
+- ls -l : 顯示詳細資訊
