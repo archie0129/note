@@ -15,7 +15,7 @@
 ## L2 
 - index.html : 塞入網址
 - index.html U : U代表還沒加到版本控管
-- "<a href="xxx">"123 : a（anker）為連結的意思，href="xxx"為連結到哪裡的意思，123為顯示的文字
+- a href="xxx" 123 : a（anker）為連結的意思，href="xxx"為連結到哪裡的意思，123為顯示的文字
 - .nojekyll : 空的資料夾
 - ls -a : 顯示隱藏檔
 - ls -l : 顯示詳細資訊
